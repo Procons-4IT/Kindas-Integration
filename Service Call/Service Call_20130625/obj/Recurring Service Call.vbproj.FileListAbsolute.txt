@@ -1,0 +1,160 @@
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call\bin\Debug\Recurring Service Call.exe
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call\bin\Debug\Recurring Service Call.pdb
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call\bin\Debug\Recurring Service Call.xml
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call\bin\Debug\Interop.Scripting.dll
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call\obj\Debug\Interop.Scripting.dll
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call\obj\Debug\Recurring Service Call.vbproj.ResolveComReference.cache
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call\obj\Debug\RecurringServiceCall.Resources.resources
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call\obj\Debug\Recurring Service Call.vbproj.GenerateResource.Cache
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call\obj\Debug\Recurring Service Call.exe
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call\obj\Debug\Recurring Service Call.xml
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call\obj\Debug\Recurring Service Call.pdb
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20121228\obj\Debug\Recurring Service Call.xml
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20121228\obj\Debug\Recurring Service Call.pdb
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20121228\bin\Debug\Recurring Service Call.exe
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20121228\bin\Debug\Recurring Service Call.pdb
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20121228\bin\Debug\Recurring Service Call.xml
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20121228\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20121228\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20121228\bin\Debug\Interop.Scripting.dll
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20121228\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20121228\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20121228\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20121228\obj\Debug\Interop.Scripting.dll
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20121228\obj\Debug\Recurring Service Call.vbproj.ResolveComReference.cache
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20121228\obj\Debug\RecurringServiceCall.Resources.resources
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20121228\obj\Debug\Recurring Service Call.vbproj.GenerateResource.Cache
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20121228\obj\Debug\Recurring Service Call.exe
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20121228\obj\Debug\Recurring Service Call.exe
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20121228\obj\Debug\Recurring Service Call.xml
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20121228\obj\Debug\Recurring Service Call.pdb
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20121228\bin\Debug\Recurring Service Call.exe
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20121228\bin\Debug\Recurring Service Call.pdb
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20121228\bin\Debug\Recurring Service Call.xml
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20121228\bin\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20121228\bin\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20121228\bin\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20121228\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20121228\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20121228\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20121228\obj\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20121228\obj\Debug\Recurring Service Call.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20121228\obj\Debug\RecurringServiceCall.Resources.resources
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20121228\obj\Debug\Recurring Service Call.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130103\obj\Debug\Recurring Service Call.exe
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130103\obj\Debug\Recurring Service Call.xml
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130103\obj\Debug\Recurring Service Call.pdb
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130103\bin\Debug\Recurring Service Call.exe
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130103\bin\Debug\Recurring Service Call.pdb
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130103\bin\Debug\Recurring Service Call.xml
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130103\bin\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130103\bin\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130103\bin\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130103\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130103\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130103\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130103\obj\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130103\obj\Debug\Recurring Service Call.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130103\obj\Debug\RecurringServiceCall.Resources.resources
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130103\obj\Debug\Recurring Service Call.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130123\obj\Debug\Recurring Service Call.exe
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130123\obj\Debug\Recurring Service Call.xml
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130123\obj\Debug\Recurring Service Call.pdb
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130123\bin\Debug\Recurring Service Call.exe
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130123\bin\Debug\Recurring Service Call.pdb
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130123\bin\Debug\Recurring Service Call.xml
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130123\bin\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130123\bin\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130123\bin\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130123\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130123\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130123\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130123\obj\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130123\obj\Debug\Recurring Service Call.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130123\obj\Debug\RecurringServiceCall.Resources.resources
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130123\obj\Debug\Recurring Service Call.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130126\obj\Debug\Recurring Service Call.exe
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130126\obj\Debug\Recurring Service Call.xml
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130126\obj\Debug\Recurring Service Call.pdb
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20130126\obj\Debug\Recurring Service Call.exe
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20130126\obj\Debug\Recurring Service Call.xml
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20130126\obj\Debug\Recurring Service Call.pdb
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20130126\bin\Debug\Recurring Service Call.exe
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20130126\bin\Debug\Recurring Service Call.pdb
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20130126\bin\Debug\Recurring Service Call.xml
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20130126\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20130126\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20130126\bin\Debug\Interop.Scripting.dll
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20130126\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20130126\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20130126\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20130126\obj\Debug\Interop.Scripting.dll
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20130126\obj\Debug\Recurring Service Call.vbproj.ResolveComReference.cache
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20130126\obj\Debug\RecurringServiceCall.Resources.resources
+C:\Projects\Kindasa Integartion\service call\Source Code\Service Call_20130126\obj\Debug\Recurring Service Call.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130126\bin\Debug\Recurring Service Call.exe
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130126\bin\Debug\Recurring Service Call.pdb
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130126\bin\Debug\Recurring Service Call.xml
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130126\bin\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130126\bin\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130126\bin\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130126\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130126\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130126\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130126\obj\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130126\obj\Debug\Recurring Service Call.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130126\obj\Debug\RecurringServiceCall.Resources.resources
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130126\obj\Debug\Recurring Service Call.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130212\obj\Debug\Recurring Service Call.exe
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130212\obj\Debug\Recurring Service Call.xml
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130212\obj\Debug\Recurring Service Call.pdb
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130212\bin\Debug\Recurring Service Call.exe
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130212\bin\Debug\Recurring Service Call.pdb
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130212\bin\Debug\Recurring Service Call.xml
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130212\bin\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130212\bin\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130212\bin\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130212\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130212\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130212\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130212\obj\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130212\obj\Debug\Recurring Service Call.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130212\obj\Debug\RecurringServiceCall.Resources.resources
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130212\obj\Debug\Recurring Service Call.vbproj.GenerateResource.Cache
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130321\obj\Debug\Recurring Service Call.exe
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130321\obj\Debug\Recurring Service Call.xml
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130321\obj\Debug\Recurring Service Call.pdb
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130321\bin\Debug\Recurring Service Call.exe
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130321\bin\Debug\Recurring Service Call.pdb
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130321\bin\Debug\Recurring Service Call.xml
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130321\bin\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130321\bin\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130321\bin\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130321\obj\Debug\ResolveAssemblyReference.cache
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130321\obj\Debug\Interop.SAPbobsCOM.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130321\obj\Debug\Interop.SAPbouiCOM.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130321\obj\Debug\Interop.Scripting.dll
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130321\obj\Debug\Recurring Service Call.vbproj.ResolveComReference.cache
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130321\obj\Debug\RecurringServiceCall.Resources.resources
+E:\InterNational Business Projects\Procons-4it\Kindasa Integartion\service call\Source Code\Service Call_20130321\obj\Debug\Recurring Service Call.vbproj.GenerateResource.Cache
+C:\Projects\Kindas Integration\service call\Service Call_20130625\obj\Debug\Recurring Service Call.exe
+C:\Projects\Kindas Integration\service call\Service Call_20130625\obj\Debug\Recurring Service Call.xml
+C:\Projects\Kindas Integration\service call\Service Call_20130625\obj\Debug\Recurring Service Call.pdb
+C:\Projects\Kindas Integration\service call\Service Call_20130625\bin\Debug\Recurring Service Call.exe
+C:\Projects\Kindas Integration\service call\Service Call_20130625\bin\Debug\Recurring Service Call.pdb
+C:\Projects\Kindas Integration\service call\Service Call_20130625\bin\Debug\Recurring Service Call.xml
+C:\Projects\Kindas Integration\service call\Service Call_20130625\bin\Debug\Interop.SAPbobsCOM.dll
+C:\Projects\Kindas Integration\service call\Service Call_20130625\bin\Debug\Interop.SAPbouiCOM.dll
+C:\Projects\Kindas Integration\service call\Service Call_20130625\bin\Debug\Interop.Scripting.dll
+C:\Projects\Kindas Integration\service call\Service Call_20130625\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Kindas Integration\service call\Service Call_20130625\obj\Debug\Interop.SAPbobsCOM.dll
+C:\Projects\Kindas Integration\service call\Service Call_20130625\obj\Debug\Interop.SAPbouiCOM.dll
+C:\Projects\Kindas Integration\service call\Service Call_20130625\obj\Debug\Interop.Scripting.dll
+C:\Projects\Kindas Integration\service call\Service Call_20130625\obj\Debug\Recurring Service Call.vbproj.ResolveComReference.cache
+C:\Projects\Kindas Integration\service call\Service Call_20130625\obj\Debug\RecurringServiceCall.Resources.resources
+C:\Projects\Kindas Integration\service call\Service Call_20130625\obj\Debug\Recurring Service Call.vbproj.GenerateResource.Cache

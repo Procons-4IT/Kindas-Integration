@@ -1,0 +1,25 @@
+<Application>
+	<Menus>
+		<action type="add">
+			
+			<!--<Menu Checked="0" Enabled="1" FatherUID="2048" Image="" Position="2" String="Sales Order Line Closure"
+			Type="1" UniqueID="DABT_910">
+			</Menu>-->
+      <Menu Checked="0" Enabled="1" FatherUID="43520" Image="" Position="13" String="Integration" Type="2" UniqueID="Z_mnu_JM001">
+      </Menu>
+
+      <!--<Menu Checked="0" Enabled="1" FatherUID="Z_mnu_JM001" Image="" Position="0" String="Setup and Import" Type="2" UniqueID="Z_mnu_JM002">
+      </Menu>-->
+      <Menu Checked="0" Enabled="1" FatherUID="Z_mnu_JM001" Image="" Position="0" String="Login Setup" Type="1" UniqueID="Z_mnu_JM003">
+      </Menu>
+      <Menu Checked="0" Enabled="1" FatherUID="Z_mnu_JM001" Image="" Position="1" String="Import Customer" Type="1" UniqueID="Z_mnu_JM004">
+      </Menu>
+      <Menu Checked="0" Enabled="1" FatherUID="Z_mnu_JM001" Image="" Position="2" String="Import Invoice" Type="1" UniqueID="Z_mnu_JM005">
+      </Menu>
+      <Menu Checked="0" Enabled="1" FatherUID="Z_mnu_JM001" Image="" Position="3" String="Import Prepaid" Type="1" UniqueID="Z_mnu_JM006">
+      </Menu>
+      <!--<Menu Checked="0" Enabled="1" FatherUID="Z_mnu_JM002" Image="" Position="4" String="Import Data" Type="1" UniqueID="Z_mnu_JM007">
+      </Menu>-->
+		</action>
+	</Menus>
+</Application>
